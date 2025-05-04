@@ -1,0 +1,24 @@
+Tank Level Control Scene Description (Factory IO)
+
+This document describes the Factory IO scene used in the Tank Level Control System project, designed to simulate a produced water treatment unit in an oil and gas facility.
+
+Scene Components:
+
+- Tank: Cylindrical, 1000-liter capacity, representing a separator or holding tank.
+- Level Sensors:
+  - High-level sensor: Triggers at 90% capacity (900 liters).
+  - Low-level sensor: Triggers at 10% capacity (100 liters).
+- Valves:
+  - Inlet valve: Controls water inflow, modulated by PID controller.
+  - Outlet valve: Opens for auto or manual draining, triggered by alarms or operator input.
+- Pump: Regulates inlet flow, connected to the PID controller output.
+- Visualization: 3D view shows tank level, valve states, and alarm indicators.
+
+Setup Notes:
+
+- The tank is initialized empty.
+- The PID controller targets a 50% setpoint (500 liters).
+- Alarms are visualized with red (high) and yellow (low) indicators.
+- Manual override is implemented via a toggle switch in the scene.
+
+See ./media/tank_scene.png for a screenshot of the scene in action.
