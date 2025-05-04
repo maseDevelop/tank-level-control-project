@@ -14,6 +14,10 @@ Components of the project include:
 - Emergancy control button
 - Visual Alarm components
 
+[![Automatic Mode](automatic_mode_thumbnail.png)](example_automatic_mode.mp4)
+
+
+
 
 ## Technical Implementation
 
