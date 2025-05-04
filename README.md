@@ -14,7 +14,7 @@ Components of the project include:
 - Emergancy control button
 - Visual Alarm components
 
-[![Automatic Mode](./media/automatic_mode_thumbnail.png)](https://raw.githubusercontent.com/maseDevelop/tank-level-control-project/media/example_automatic_mode.mp4)
+[![Automatic Mode](./media/automatic_mode_thumbnail.png)](https://raw.githubusercontent.com/maseDevelop/tank-level-control-project/main/media/example_automatic_mode.mp4)
 
 
 
