@@ -46,7 +46,9 @@ The project was progragmmed in CodeSys, using both Ladder Logic and Structured T
 
 **PID Control**: Smoothly adjusts flow to keep levels stable, mirroring real-world process optimization.
 
-#### PID Oscillator MP4 example
+#### PID Oscillator
+
+https://github.com/user-attachments/assets/3ba99c6d-149e-4369-bf93-8fc0e6984963
 
 ## Code and Scene Details
 
