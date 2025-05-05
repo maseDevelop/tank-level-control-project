@@ -14,7 +14,25 @@ Components of the project include:
 - Emergancy control button
 - Visual Alarm components
 
-[![Automatic Mode]("https://github.com/user-attachments/assets/aaef4581-e729-4a05-b1fe-a10c3aca9b90")]
+#### PID Process Control
+
+https://github.com/user-attachments/assets/92e5e066-e661-4cb5-8761-784b87b94393
+
+https://github.com/user-attachments/assets/6e028a7b-2418-4db0-b50e-a401911d9988
+
+#### Manual Mode
+
+https://github.com/user-attachments/assets/db26b21f-c519-4c97-b8b0-13b63a2f1546
+
+#### High and Low Alerts
+
+https://github.com/user-attachments/assets/8ceb77a3-7681-4129-b950-6cb9edffc47d
+
+https://github.com/user-attachments/assets/a7749b0a-bcb6-4895-b231-c3dbdfb0b7c0
+
+#### Emergancy Stop
+
+https://github.com/user-attachments/assets/8b1b5145-6224-44e8-9d32-1d0c06ea44b2
 
 ## Technical Implementation
 
@@ -29,8 +47,6 @@ The project was progragmmed in CodeSys, using both Ladder Logic and Structured T
 **PID Control**: Smoothly adjusts flow to keep levels stable, mirroring real-world process optimization.
 
 #### PID Oscillator MP4 example
-
-![PID Oscillator](./media/pid_oscillator.gif)
 
 ## Code and Scene Details
 
