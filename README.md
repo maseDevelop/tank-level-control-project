@@ -16,7 +16,7 @@ Components of the project include:
 
 #### PID Process Control
 
-Operators select a setpoint, and the system will start a draining process (if tank level is greater than the current setpoint),
+Operators select a setpoint, and the system will start a draining process (if tank level is greater than the current setpoint)
 
 https://github.com/user-attachments/assets/92e5e066-e661-4cb5-8761-784b87b94393
 
