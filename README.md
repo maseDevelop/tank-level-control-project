@@ -16,21 +16,29 @@ Components of the project include:
 
 #### PID Process Control
 
+Operators select a setpoint, and the system will start a draining process (if tank level is greater than the current setpoint),
+
 https://github.com/user-attachments/assets/92e5e066-e661-4cb5-8761-784b87b94393
 
 https://github.com/user-attachments/assets/6e028a7b-2418-4db0-b50e-a401911d9988
 
 #### Manual Mode
 
+Manual mode is toggled by a selector
+
 https://github.com/user-attachments/assets/db26b21f-c519-4c97-b8b0-13b63a2f1546
 
 #### High and Low Alerts
+
+Alerts are split into warning and critical for both over and underflow
 
 https://github.com/user-attachments/assets/8ceb77a3-7681-4129-b950-6cb9edffc47d
 
 https://github.com/user-attachments/assets/a7749b0a-bcb6-4895-b231-c3dbdfb0b7c0
 
 #### Emergancy Stop
+
+Operators can can stop the process at any moment with an emergancy stop
 
 https://github.com/user-attachments/assets/8b1b5145-6224-44e8-9d32-1d0c06ea44b2
 
@@ -46,7 +54,7 @@ The project was progragmmed in CodeSys, using both Ladder Logic and Structured T
 
 **PID Control**: Smoothly adjusts flow to keep levels stable, mirroring real-world process optimization.
 
-#### PID Oscillator
+#### PID Trace
 
 https://github.com/user-attachments/assets/3ba99c6d-149e-4369-bf93-8fc0e6984963
 
