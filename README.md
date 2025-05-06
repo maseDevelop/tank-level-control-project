@@ -64,9 +64,10 @@ I’ve included the Factory IO scene setup and CodeSys code in the repository to
 
 The scene makes use of the tank component, details can be found [here](https://docs.factoryio.com/manual/parts/stations/#tank)
 
-You can find the scene configuration in ./src/factory_io/tank_scene_description.txt, which details the setup. (Note: The .fio file is proprietary, so I’ve documented the components and settings for clarity.) Check out the screenshot in ./media/tank_scene.png to see it in action.
+You can find the scene configuration [here](./src/factory_io/tank_scence_description.md), which details the setup. (Note: The .fio file is proprietary, so I’ve documented the components and settings for clarity.)
 
-CodeSys Code
+#### CodeSys Code
+
 The CodeSys project uses ladder logic and structured text to bring the system to life, mimicking PLC programming in oil and gas automation.
 
 The CodeSys project can be found [here](./src/codesys/)
