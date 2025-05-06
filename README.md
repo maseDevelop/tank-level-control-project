@@ -69,7 +69,7 @@ You can find the scene configuration in ./src/factory_io/tank_scene_description.
 CodeSys Code
 The CodeSys project uses ladder logic and structured text to bring the system to life, mimicking PLC programming in oil and gas automation.
 
-The CodeSys project can be found in the following folder: `./src/codesys/`
+The CodeSys project can be found [here](./src/codesys/)
 
 Connection between Factory IO and CodeSys is done via the OPC UA protocol. The connection is established using the Factory IO OPC UA server, which allows CodeSys to read and write data to and from Factory IO.
 
